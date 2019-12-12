@@ -1,0 +1,619 @@
+landscape:
+  - category:
+    name: Data
+    subcategories:
+      - subcategory:
+        name: Versioning
+        items:
+          - item:
+            name: dotmesh
+            homepage_url: 'https://dotmesh.com/'
+            repo_url: 'https://github.com/dotmesh-io/dotmesh'
+            logo: dotmesh.svg
+            crunchbase: 'https://www.crunchbase.com/organization/dotscience'
+          - item:
+            name: DVC
+            homepage_url: 'https://dvc.org/'
+            repo_url: 'https://github.com/iterative/dvc'
+            logo: dvc.svg
+            twitter: 'https://twitter.com/iterativeai'
+            crunchbase: 'https://www.crunchbase.com/organization/iterative'
+          - item:
+            name: Pachyderm
+            homepage_url: 'https://pachyderm.io/'
+            repo_url: 'https://github.com/pachyderm/pachyderm'
+            logo: pachyderm.svg
+            twitter: 'https://twitter.com/pachydermio'
+            crunchbase: 'https://www.crunchbase.com/organization/pachyderm'
+          - item:
+            name: Quilt Data
+            homepage_url: 'https://docs.quiltdata.com/'
+            repo_url: 'https://github.com/quiltdata/quilt'
+            logo: quiltdata.svg
+            crunchbase: 'https://www.crunchbase.com/organization/quilt-data'
+      - subcategory:
+        name: Store & Format
+        items:
+          - item:
+            name: Alluxio
+            homepage_url: 'https://www.alluxio.io/'
+            repo_url: 'https://github.com/alluxio/alluxio'
+            logo: alluxio.svg
+            twitter: 'https://twitter.com/alluxio'
+            crunchbase: 'https://www.crunchbase.com/organization/alluxio'
+          - item:
+            name: Apache ORC
+            homepage_url: 'https://orc.apache.org/'
+            repo_url: 'https://github.com/apache/orc'
+            logo: apache-orc.svg
+            twitter: 'https://twitter.com/apacheorc'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: AresDB
+            homepage_url: 'https://eng.uber.com/aresdb/'
+            repo_url: 'https://github.com/uber/aresdb'
+            logo: aresdb.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/uber'
+          - item:
+            name: Arrow
+            homepage_url: 'https://arrow.apache.org/'
+            repo_url: 'https://github.com/apache/arrow'
+            logo: arrow.svg
+            twitter: 'https://twitter.com/ApacheArrow'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Avro
+            homepage_url: 'https://avro.apache.org/'
+            repo_url: 'https://github.com/apache/avro'
+            logo: 'https://svn.apache.org/repos/asf/comdev/project-logos/originals/avro.svg'
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apiary
+            homepage_url: 'https://github.com/ExpediaGroup/apiary'
+            repo_url: 'https://github.com/ExpediaGroup/apiary'
+            logo: apiary.svg
+            crunchbase: 'https://www.crunchbase.com/organization/expedia'
+          - item:
+            name: Delta Lake
+            homepage_url: 'https://delta.io/'
+            repo_url: 'https://github.com/delta-io/delta'
+            logo: deltalake.svg
+            twitter: 'https://twitter.com/DeltaLakeOSS'
+            crunchbase: 'https://www.crunchbase.com/organization/databricks'
+          - item:
+            name: Druid
+            homepage_url: 'https://druid.apache.org/'
+            repo_url: 'https://github.com/apache/incubator-druid'
+            logo: apache-druid.svg
+            twitter: 'https://twitter.com/druidio'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Hudi
+            homepage_url: 'https://eng.uber.com/hoodie/'
+            repo_url: 'https://github.com/apache/incubator-hudi'
+            logo: hudi.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/uber'
+          - item:
+            name: Milvus
+            homepage_url: 'https://milvus.io'
+            repo_url: 'https://github.com/milvus-io/milvus'
+            logo: milvus.svg
+            twitter: 'https://twitter.com/milvusio'
+            crunchbase: 'https://www.crunchbase.com/organization/zilliz'
+          - item:
+            name: Parquet
+            homepage_url: 'https://parquet.apache.org/'
+            repo_url: 'https://github.com/apache/parquet-format'
+            logo: 'https://svn.apache.org/repos/asf/comdev/project-logos/originals/parquet.svg'
+            twitter: 'https://twitter.com/apacheparquet'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Pilosa
+            homepage_url: 'https://www.pilosa.com/'
+            repo_url: 'https://github.com/pilosa/pilosa'
+            logo: pilosa.svg
+            crunchbase: 'https://www.crunchbase.com/organization/pilosa'
+      - subcategory:
+        name: Pipeline Management
+        items:
+          - item:
+            name: Analytics Zoo
+            homepage_url: 'https://pypi.org/project/analytics-zoo/'
+            repo_url: 'https://github.com/intel-analytics/analytics-zoo'
+            logo: analytics-zoo.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: Beam
+            homepage_url: 'https://beam.apache.org'
+            repo_url: 'https://github.com/apache/beam'
+            logo: beam.svg
+            twitter: 'https://twitter.com/ApacheBeam'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: TPOT
+            homepage_url: 'https://automl.info/tpot/'
+            repo_url: 'https://github.com/EpistasisLab/tpot'
+            logo: tpot.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-pennsylvania'
+      - subcategory:
+        name: Stream Processing
+        items:
+          - item:
+            name: Brooklin
+            homepage_url: 'https://github.com/linkedin/Brooklin'
+            repo_url: 'https://github.com/linkedin/Brooklin'
+            stock_ticker: MSFT
+            logo: brooklin.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/linkedin'
+          - item:
+            name: Circus Train
+            homepage_url: 'https://github.com/HotelsDotCom/circus-train'
+            repo_url: 'https://github.com/HotelsDotCom/circus-train'
+            logo: circus-train.svg
+            crunchbase: 'https://www.crunchbase.com/organization/expedia'
+          - item:
+            name: faust
+            homepage_url: 'https://github.com/robinhood/faust'
+            repo_url: 'https://github.com/robinhood/faust'
+            logo: faust.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/robinhood'
+          - item:
+            name: Flink
+            homepage_url: 'https://flink.apache.org/'
+            repo_url: 'https://github.com/apache/flink'
+            logo: apache-flink.svg
+            twitter: 'https://twitter.com/ApacheFlink'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Kafka
+            homepage_url: 'https://kafka.apache.org/'
+            repo_url: 'https://github.com/apache/kafka'
+            logo: apache-kafka.svg
+            twitter: 'https://twitter.com/apachekafka'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Samza
+            homepage_url: 'http://samza.apache.org/'
+            repo_url: 'https://github.com/apache/samza'
+            logo: apache-samza.svg
+            twitter: 'https://twitter.com/samzastream'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Stream Registry
+            homepage_url: 'https://expediagroup.github.io/stream-registry/'
+            repo_url: 'https://github.com/ExpediaGroup/stream-registry'
+            logo: stream-registry.svg
+            crunchbase: 'https://www.crunchbase.com/organization/expedia'
+          - item:
+            name: uReplicator
+            homepage_url: 'https://github.com/uber/uReplicator'
+            repo_url: 'https://github.com/uber/uReplicator'
+            logo: ureplicator.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/uber'
+          - item:
+            name: Stroom
+            homepage_url: 'https://github.com/gchq/stroom'
+            repo_url: 'https://github.com/gchq/stroom'
+            logo: stroom.svg
+            crunchbase: 'https://www.crunchbase.com/organization/gchq'
+      - subcategory:
+        name: SQL Engine
+        items:
+          - item:
+            name: Apache Drill
+            homepage_url: 'https://drill.apache.org/'
+            repo_url: 'https://github.com/apache/drill'
+            logo: apache-drill.svg
+            twitter: 'https://twitter.com/ApacheDrill'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Presto
+            homepage_url: 'https://prestodb.io/'
+            repo_url: 'https://github.com/prestodb/presto'
+            logo: presto.svg
+            crunchbase: 'https://www.crunchbase.com/organization/presto-software-foundation'
+          - item:
+            name: SQLFlow
+            homepage_url: 'https://sql-machine-learning.github.io/'
+            repo_url: 'https://github.com/sql-machine-learning/sqlflow'
+            logo: sqlflow.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+          - item:
+            name: GaianDB
+            homepage_url: 'https://github.com/gaiandb/gaiandb'
+            repo_url: 'https://github.com/gaiandb/gaiandb'
+            logo: gaiandb.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Waggle Dance
+            homepage_url: 'https://github.com/HotelsDotCom/waggle-dance'
+            repo_url: 'https://github.com/HotelsDotCom/waggle-dance'
+            logo: waggle-dance.svg
+            crunchbase: 'https://www.crunchbase.com/organization/expedia'
+      - subcategory:
+        name: Feature Engineering
+        items:
+          - item:
+            name: Feast
+            homepage_url: 'https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning'
+            repo_url: 'https://github.com/gojek/feast'
+            logo: feast.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: Featuretools
+            homepage_url: 'https://www.featuretools.com/'
+            repo_url: 'https://github.com/featuretools/featuretools'
+            logo: featuretools.svg
+            crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
+          - item:
+            name: tsfresh
+            homepage_url: 'http://tsfresh.readthedocs.io'
+            repo_url: 'https://github.com/blue-yonder/tsfresh'
+            logo: tsfresh.svg
+            crunchbase: 'https://www.crunchbase.com/organization/blue-yonder'
+      - subcategory:
+        name: Visualization
+        items:
+          - item:
+            name: bokeh
+            homepage_url: 'https://bokeh.org'
+            repo_url: 'https://github.com/bokeh/bokeh'
+            logo: 'https://static.bokeh.org/logos/logotype.svg'
+            twitter: 'https://twitter.com/BokehPlots'
+            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
+          - item:
+            name: dash
+            homepage_url: 'https://github.com/plotly/dash'
+            repo_url: 'https://github.com/plotly/dash'
+            logo: dash.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/plotly'
+          - item:
+            name: deck.gl
+            homepage_url: 'https://deck.gl'
+            repo_url: 'https://github.com/uber/deck.gl'
+            logo: deckgl.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/uber'
+          - item:
+            name: Facets
+            homepage_url: 'https://pair-code.github.io/facets/'
+            repo_url: 'https://github.com/PAIR-code/facets'
+            logo: facets.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: Grafana
+            homepage_url: 'https://grafana.com'
+            repo_url: 'https://github.com/grafana/grafana'
+            logo: grafana.svg
+            crunchbase: 'https://www.crunchbase.com/organization/raintank'
+          - item:
+            name: RCloud
+            homepage_url: 'https://rcloud.social/index.html'
+            repo_url: 'https://github.com/att/rcloud'
+            logo: rcloud.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/at-t'
+          - item:
+            name: seaborn
+            homepage_url: 'https://seaborn.pydata.org/'
+            repo_url: 'https://github.com/mwaskom/seaborn'
+            logo: seaborn.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/new-york-university'
+          - item:
+            name: TensorBoard
+            homepage_url: 'https://github.com/tensorflow/tensorboard'
+            repo_url: 'https://github.com/tensorflow/tensorboard'
+            logo: tensorboard.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+      - subcategory:
+        name: Governance and Policy Management
+        items:
+          - item:
+            name: Amundsen
+            homepage_url: 'https://github.com/lyft/amundsen'
+            repo_url: 'https://github.com/lyft/amundsen'
+            logo: amundsen.svg
+            crunchbase: 'https://www.crunchbase.com/organization/lyft'
+          - item:
+            name: ODPi Egeria
+            homepage_url: 'https://egeria.odpi.org/'
+            repo_url: 'https://github.com/odpi/egeria'
+            logo: odpi_egeria.svg
+            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+          - item:
+            name: Palisade
+            homepage_url: 'https://github.com/gchq/Palisade'
+            repo_url: 'https://github.com/gchq/Palisade'
+            logo: palisade.svg
+            crunchbase: 'https://www.crunchbase.com/organization/gchq'
+      - subcategory:
+        name: Graph
+        items:
+          - item:
+            name: JanusGraph
+            homepage_url: 'https://janusgraph.org'
+            repo_url: 'https://github.com/JanusGraph/janusgraph'
+            logo: janusgraph.svg
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Nebula Graph
+            homepage_url: 'https://nebula-graph.io/'
+            repo_url: 'https://github.com/vesoft-inc/nebula'
+            logo: nebula-graph.svg
+            crunchbase: 'https://www.crunchbase.com/organization/nebula-graph'
+          - item:
+            name: Gaffer
+            homepage_url: 'https://github.com/gchq/Gaffer'
+            repo_url: 'https://github.com/gchq/Gaffer'
+            logo: gaffer.svg
+            crunchbase: 'https://www.crunchbase.com/organization/gchq'
+      - subcategory:
+        name: Labeling and Annotation
+        items:
+          - item:
+            name: Computer Vision Annotation Tool (CVAT)
+            homepage_url: 'https://github.com/opencv/cvat'
+            repo_url: 'https://github.com/opencv/cvat'
+            logo: cvat.svg
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: doccano
+            homepage_url: 'https://doccano.herokuapp.com'
+            repo_url: 'https://github.com/chakki-works/doccano'
+            logo: doccano.svg
+            crunchbase: 'https://www.crunchbase.com/organization/docanno'
+          - item:
+            name: Label Studio
+            homepage_url: 'https://labelstud.io'
+            repo_url: 'https://github.com/heartexlabs/label-studio'
+            logo: labelstudio.svg
+            twitter: 'https://twitter.com/heartexlabs'
+            crunchbase: 'https://www.crunchbase.com/organization/heartex'
+          - item:
+            name: Labelbox
+            homepage_url: 'https://www.labelbox.com'
+            repo_url: 'https://github.com/Labelbox/Labelbox'
+            logo: labelbox.svg
+            crunchbase: 'https://www.crunchbase.com/organization/labelbox'
+          - item:
+            name: LabelImg
+            homepage_url: 'https://github.com/tzutalin/labelImg'
+            repo_url: 'https://github.com/tzutalin/labelImg'
+            logo: labelimg.svg
+            crunchbase: 'https://www.crunchbase.com/organization/labelimg'
+          - item:
+            name: Semantic Segmentation Editor
+            homepage_url: 'https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor'
+            repo_url: 'https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor'
+            stock_ticker: HTHIY
+            logo: sse.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/hitachi'
+          - item:
+            name: Visual Object Tagging Tool (VoTT)
+            homepage_url: 'https://github.com/Microsoft/VoTT'
+            repo_url: 'https://github.com/Microsoft/VoTT'
+            logo: vott.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+  - category:
+    name: Distributed Computing
+    subcategories:
+      - subcategory:
+        name: Computing & Management
+        items:
+          - item:
+            name: Apache Ambari
+            homepage_url: 'https://ambari.apache.org/'
+            repo_url: 'https://github.com/apache/ambari'
+            logo: apache-ambari.svg
+            twitter: 'https://twitter.com/ApacheAmbari'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache Bahir
+            homepage_url: 'http://bahir.apache.org/'
+            repo_url: 'https://github.com/apache/bahir'
+            logo: apache-bahir.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache Mesos
+            homepage_url: 'http://mesos.apache.org/'
+            repo_url: 'https://github.com/apache/mesos'
+            logo: apache-mesos.svg
+            twitter: 'https://twitter.com/ApacheMesos'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache Ranger
+            homepage_url: 'http://ranger.apache.org/'
+            repo_url: 'https://github.com/apache/ranger'
+            logo: apache-ranger.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache Storm
+            homepage_url: 'http://storm.apache.org/'
+            repo_url: 'https://github.com/apache/storm'
+            logo: apache-storm.svg
+            twitter: 'https://twitter.com/ApacheStorm'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Elastic Deep Learning (EDL)
+            homepage_url: 'http://www.paddlepaddle.org.cn/'
+            project: incubating
+            repo_url: 'https://github.com/PaddlePaddle/edl'
+            logo: edl.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: Generic Neural Elastic Search (GNES)
+            homepage_url: 'https://github.com/gnes-ai/gnes'
+            repo_url: 'https://github.com/gnes-ai/gnes'
+            logo: gnes.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/tencent'
+          - item:
+            name: genie
+            homepage_url: 'https://netflix.github.io/genie'
+            repo_url: 'https://github.com/Netflix/genie'
+            logo: genie.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/netflix'
+          - item:
+            name: Kubernetes
+            description: 'Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications'
+            homepage_url: 'https://kubernetes.io/'
+            repo_url: 'https://github.com/kubernetes/kubernetes'
+            logo: kubernetes.svg
+            twitter: 'https://twitter.com/kubernetesio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Nauta
+            homepage_url: 'https://www.intel.ai/nauta/'
+            repo_url: 'https://github.com/IntelAI/Nauta'
+            logo: nauta.svg
+            twitter: 'https://twitter.com/IntelAI'
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: Singularity
+            homepage_url: 'https://sylabs.io/'
+            repo_url: 'https://github.com/sylabs/singularity'
+            logo: singularity.svg
+            twitter: 'https://twitter.com/SingularityApp'
+            crunchbase: 'https://www.crunchbase.com/organization/sylabs'
+          - item:
+            name: Ray
+            homepage_url: 'http://ray.io/'
+            repo_url: 'https://github.com/ray-project/ray'
+            logo: ray.svg
+            twitter: 'https://twitter.com/raydistributed'
+            crunchbase: 'https://www.crunchbase.com/organization/sylabs'
+      - subcategory:
+        name: Interface
+        items:
+          - item:
+            name: Apache Toree
+            homepage_url: 'https://toree.apache.org'
+            repo_url: 'https://github.com/apache/incubator-toree'
+            logo: apache-toree.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Livy
+            homepage_url: 'https://livy.incubator.apache.org/'
+            repo_url: 'https://github.com/apache/incubator-livy'
+            logo: apache-livy.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Spark-NLP
+            homepage_url: 'https://nlp.johnsnowlabs.com'
+            repo_url: 'https://github.com/JohnSnowLabs/spark-nlp'
+            logo: spark-nlp.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/john-snow-labs-inc'
+          - item:
+            name: sparklyr
+            homepage_url: 'https://spark.rstudio.com'
+            repo_url: 'https://github.com/rstudio/sparklyr'
+            logo: sparklyr.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/rstudio'
+  - category:
+    name: Resources
+    subcategories:
+      - subcategory:
+        name: Licensing
+        items:
+          - item:
+            name: Community Data License Agreement (CDLA)
+            homepage_url: 'https://cdla.io/'
+            repo_url: 'https://github.com/lfai/CDLA'
+            logo: cdla.svg
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+      - subcategory:
+        name: Best Practices
+        items:
+          - item:
+            name: ODPi BI & AI
+            homepage_url: 'https://www.odpi.org/projects/bi-ai'
+            repo_url: 'https://github.com/odpi/bi-ai'
+            logo: odpi-bi-ai.svg
+            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+      - subcategory:
+        name: Educational Materials
+        items:
+          - item:
+            name: DataPractices.org
+            homepage_url: 'https://datapractices.org/'
+            repo_url: 'https://github.com/datadotworld/data-practices-site'
+            logo: datapractices_org.svg
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: ODPi OpenDS4All
+            homepage_url: 'https://github.com/odpi/OpenDS4All'
+            repo_url: 'https://github.com/odpi/OpenDS4All'
+            logo: odpi-opends4all.svg
+            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+  - category:
+    name: LF Data and Analytics Member Company
+    subcategories:
+      - subcategory:
+        name: Premium
+        items:
+          - item:
+            name: SAS
+            homepage_url: 'https://www.sas.com/'
+            logo: sas.svg
+            crunchbase: 'https://www.crunchbase.com/organization/sas'
+          - item:
+            name: IBM
+            homepage_url: 'https://www.ibm.com/'
+            logo: att.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Cloudera
+            homepage_url: 'https://www.cloudera.com/'
+            logo: cloudera.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloudera'
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Attunity
+            homepage_url: 'http://www.attunity.com/'
+            logo: attunity.svg
+            crunchbase: 'https://www.crunchbase.com/organization/attunity'
+          - item:
+            name: Index Analytics
+            homepage_url: 'http://www.index-analytics.com/'
+            logo: index-analytics.svg
+            crunchbase: 'https://www.crunchbase.com/organization/4c-decision'
+          - item:
+            name: ING
+            homepage_url: 'http://www.ing.com/'
+            logo: ing.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ing-group'
+          - item:
+            name: Syncsort
+            homepage_url: 'https://www.syncsort.com/en/home'
+            logo: syncsort.svg
+            crunchbase: 'https://www.crunchbase.com/organization/syncsort'
+          - item:
+            name: WANdisco, Inc
+            homepage_url: 'http://www.wandisco.com/'
+            logo: wandisco.svg
+            crunchbase: 'https://www.crunchbase.com/organization/wandisco'

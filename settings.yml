@@ -1,0 +1,199 @@
+global:
+  name: LF Data Management and Analytics Interactive Landscape
+  short_name: LF Data Management and Analytics
+  repo: jmertic/lfdata-landscape
+  website: 'https://landscape.LF Data Management and Analytics.io'
+  short_domain: l.LF Data Management and Analytics.io
+  company_url: 'https://LF Data Management and Analytics.io'
+  email: info@LF Data Management and Analytics.io
+  self: 'https://www.crunchbase.com/organization/odpi'
+  slack_channel: T08PSQ7BQ/BM3K5125V/VfQL9ybcXrwpnLAdKdU8WQrr
+  meta:
+    title: LF Data Management and Analytics Landscape
+    fb_admin: alex.contini.94
+    description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
+    twitter: '@AcademySwf'
+    google_site_verification: crYr16dyu7npMmK-fw42gMkXKTWg_A-7c2PosXgtPZo
+    ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
+  membership: LF Data Management and Analytics Member Company
+  flags:
+    companies: LF Data Management and Analytics Member Company
+twitter:
+  search: landscape.LF Data Management and Analytics.io
+  url: 'https://landscape.lfdl.foundation'
+  text: LF Data Management and Analytics Landscape from @AcademySwf
+relation:
+  label: LF Data Management and Analytics Relation
+  url: LF Data Management and Analytics
+  values:
+    - id: hosted
+      label: LF Data Management and Analytics Projects
+      children:
+        - id: graduated
+          label: Graduated LF Data Management and Analytics Projects
+          prefix: LF Data Management and Analytics
+          tag: Graduated
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LF Data Management and Analytics Graduated
+          big_picture_color: 'rgb(24,54,114)'
+        - id: incubating
+          label: Incubating LF Data Management and Analytics Projects
+          prefix: LF Data Management and Analytics
+          tag: Incubating
+          color: '#00cbff'
+          big_picture_order: 2
+          big_picture_label: LF Data Management and Analytics Incubating
+          big_picture_color: 'rgb(83, 113, 189)'
+    - id: company
+      label: LF Data Management and Analytics Members
+      tag: Company
+      big_picture_order: 3
+    - id: member
+      label: LF Data Management and Analytics Member Products/Projects
+      tag: LF Data Management and Analytics Member
+    - id: false
+      label: Non-LF Data Management and Analytics Member Products/Projects
+      url: 'no'
+membership:
+  Premier:
+    name: LF Data Management and Analytics
+    label: Premier Member
+    funding: Premier
+    is_large: true
+  General:
+    name: LF Data Management and Analytics
+    label: General Member
+    funding: General
+  Associate:
+    name: LF Data Management and Analytics
+    label: Associate Member
+    funding: Associate
+  linux_foundation:
+    name: LF
+    label: Project
+    funding: Linux Foundation
+    crunchbase_and_children: 'https://www.crunchbase.com/organization/linux-foundation'
+  'false':
+    funding: 'No'
+home:
+  header: >
+    <h1>LF Data Management and Analytics Interactive Landscape</h1> The Academy Software Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
+    on the same open source code.
+  footer: |
+    Crunchbase data is used under license from Crunchbase to CNCF.
+ads:
+  - url: 'https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/?utm_source=lfdl_landscape&utm_medium=web&utm_campaign=kccncna19'
+    image: /images/info1.jpg
+presets:
+  - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
+    label: OS cards by age
+  - url: /format=card-mode&grouping=category
+    label: Cards in categories
+  - url: /format=card-mode&grouping=no&sort=stars
+    label: Cards by stars
+  - url: /format=card-mode&grouping=headquarters
+    label: Group by location
+  - url: /format=card-mode&grouping=license&license=open-source
+    label: Group by license
+  - url: /format=card-mode&grouping=no&license=open-source&sort=latest-commit
+    label: OS cards by latest commit
+big_picture:
+  main:
+    tab_index: -1
+    url: landscape
+    name: Landscape
+    title: Academy Software Foundation Landscape
+    fullscreen_header: See the interactive landscape at l.LF Data Management and Analytics.io
+    size:
+      width: 1165
+      height: 700
+    fullscreen_size:
+      width: 1165
+      height: 700
+    elements:
+      - type: HorizontalCategory
+        category: Imaging and Color
+        rows: 3
+        width: 750
+        height: 170
+        top: 10
+        left: 0
+        color: 'rgb(78,171,207)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Assets and Workflow
+        rows: 3
+        width: 750
+        height: 170
+        top: 220
+        left: 0
+        color: 'rgb(104,145,145)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Rendering and Queueing
+        rows: 4
+        width: 365
+        height: 190
+        top: 420
+        left: 0
+        color: 'rgb(108,135,75)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Math and Simulation
+        rows: 4
+        width: 365
+        height: 190
+        top: 420
+        left: 385
+        color: 'rgb(130,207,231)'
+        fit_width: true
+      - type: VerticalCategory
+        category: LF Data Management and Analytics Member Company
+        cols: 8
+        width: 355
+        height: 420
+        top: 190
+        left: 770
+        color: 'rgb(124, 200, 182)'
+        fit_width: true
+      - type: LandscapeInfo
+        width: 365
+        height: 160
+        top: 10
+        left: 770
+        children:
+          - type: text
+            text: >
+              This landscape is intended as a map to explore open source projects within the animation and visual effects industry, and also shows the member
+              companies of the Academy Software Foundation.
+            top: 20
+            left: 100
+            right: 120
+            font_size: 10
+          - type: image
+            image: qr.svg
+            top: 20
+            left: 5
+            width: 90
+            height: 90
+          - type: title
+            title: l.LF Data Management and Analytics.io
+            top: 104
+            left: 30
+            font_size: 12
+          - type: image
+            image: left-logo.svg
+            width: 110
+            right: 5
+            top: 20
+          - type: image
+            image: right-logo.svg
+            width: 109
+            right: 5
+            top: 80
+test:
+  header: LF Data Management and Analytics Interactive Landscape
+  section: Graduated LF Data Management and Analytics Projects
+  logo: open-vdb.svg
