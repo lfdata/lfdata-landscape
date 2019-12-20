@@ -78,6 +78,7 @@ landscape:
             name: Delta Lake
             homepage_url: 'https://delta.io/'
             repo_url: 'https://github.com/delta-io/delta'
+            project: lf
             logo: deltalake.svg
             twitter: 'https://twitter.com/DeltaLakeOSS'
             crunchbase: 'https://www.crunchbase.com/organization/databricks'
@@ -232,6 +233,7 @@ landscape:
             name: GaianDB
             homepage_url: 'https://github.com/gaiandb/gaiandb'
             repo_url: 'https://github.com/gaiandb/gaiandb'
+            project: lf
             logo: gaiandb.svg
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
@@ -321,24 +323,27 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
       - subcategory:
-        name: Governance and Policy Management
+        name: Governance & Policy Mgmt
         items:
           - item:
             name: Amundsen
             homepage_url: 'https://github.com/lyft/amundsen'
             repo_url: 'https://github.com/lyft/amundsen'
+            project: lf
             logo: amundsen.svg
             crunchbase: 'https://www.crunchbase.com/organization/lyft'
           - item:
             name: ODPi Egeria
             homepage_url: 'https://egeria.odpi.org/'
             repo_url: 'https://github.com/odpi/egeria'
+            project: lf
             logo: odpi_egeria.svg
             crunchbase: 'https://www.crunchbase.com/organization/odpi'
           - item:
             name: Palisade
             homepage_url: 'https://github.com/gchq/Palisade'
             repo_url: 'https://github.com/gchq/Palisade'
+            project: lf
             logo: palisade.svg
             twitter: 'https://twitter.com/gchq'
             crunchbase: 'https://www.crunchbase.com/organization/gchq'
@@ -349,6 +354,7 @@ landscape:
             name: JanusGraph
             homepage_url: 'https://janusgraph.org'
             repo_url: 'https://github.com/JanusGraph/janusgraph'
+            project: lf
             logo: janusgraph.svg
             crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
           - item:
@@ -456,7 +462,6 @@ landscape:
           - item:
             name: Elastic Deep Learning (EDL)
             homepage_url: 'http://www.paddlepaddle.org.cn/'
-            project: incubating
             repo_url: 'https://github.com/PaddlePaddle/edl'
             logo: edl.svg
             twitter: null
@@ -491,6 +496,13 @@ landscape:
             logo: nauta.svg
             twitter: 'https://twitter.com/IntelAI'
             crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: OpenSDS
+            homepage_url: 'https://www.opensds.io/'
+            repo_url: 'https://github.com/opensds/opensds'
+            logo: opensds.svg
+            project: lf
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
           - item:
             name: Singularity
             homepage_url: 'https://sylabs.io/'
@@ -556,7 +568,15 @@ landscape:
             homepage_url: 'https://www.odpi.org/projects/bi-ai'
             repo_url: 'https://github.com/odpi/bi-ai'
             logo: odpi-bi-ai.svg
+            project: lf
             crunchbase: 'https://www.crunchbase.com/organization/odpi'
+          - item:
+            name: DataPractices.org
+            homepage_url: 'https://datapractices.org/'
+            repo_url: 'https://github.com/datadotworld/data-practices-site'
+            logo: datapractices-org.svg
+            project: lf
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
       - subcategory:
         name: Educational Materials
         items:
@@ -564,10 +584,11 @@ landscape:
             name: ODPi OpenDS4All
             homepage_url: 'https://github.com/odpi/OpenDS4All'
             repo_url: 'https://github.com/odpi/OpenDS4All'
+            project: lf
             logo: odpi-opends4all.svg
             crunchbase: 'https://www.crunchbase.com/organization/odpi'
   - category:
-    name: LF Data Management and Analytics Member Company
+    name: LF Data Management and Analytics Propsective Member Company
     subcategories:
       - subcategory:
         name: Premier
@@ -580,13 +601,35 @@ landscape:
           - item:
             name: IBM
             homepage_url: 'https://www.ibm.com/'
-            logo: att.svg
+            logo: ibm.svg
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
             name: Cloudera
             homepage_url: 'https://www.cloudera.com/'
             logo: cloudera.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudera'
+          - item:
+            name: Lyft
+            homepage_url: 'https://www.lyft.com'
+            logo: lyft.svg
+            crunchbase: 'https://www.crunchbase.com/organization/lyft'
+          - item:
+            name: DataBricks
+            homepage_url: 'https://www.lyft.com'
+            logo: databricks.svg
+            crunchbase: 'https://www.crunchbase.com/organization/databricks'
+          - item:
+            name: Google Cloud
+            homepage_url: 'https://cloud.google.com/'
+            logo: google-cloud.svg
+            twitter: 'https://twitter.com/GCPcloud'
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: GCHQ
+            homepage_url: 'https://www.gchq.gov.uk/'
+            logo: gchq.svg
+            twitter: 'https://twitter.com/gchq'
+            crunchbase: 'https://www.crunchbase.com/organization/gchq'
       - subcategory:
         name: General
         items:
@@ -596,6 +639,16 @@ landscape:
             logo: attunity.svg
             crunchbase: 'https://www.crunchbase.com/organization/attunity'
             stock_ticker: null
+          - item:
+            name: data.world
+            homepage_url: 'https://data.world'
+            logo: dataworld.svg
+            crunchbase: 'https://www.crunchbase.com/organization/data-world'
+          - item:
+            name: Expero
+            homepage_url: 'https://www.experoinc.com/'
+            logo: expero.svg
+            crunchbase: 'https://www.crunchbase.com/organization/expero'
           - item:
             name: ING
             homepage_url: 'http://www.ing.com/'

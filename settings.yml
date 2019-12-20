@@ -2,7 +2,7 @@ global:
   name: LF Data Management and Analytics Interactive Landscape
   short_name: LF Data Management and Analytics
   repo: jmertic/lfdata-landscape
-  website: 'https://landscape.LF Data Management and Analytics.io'
+  website: 'https://landscape.lfdata.foundation'
   short_domain: l.lfdata.foundation
   company_url: 'https://lfdata.foundation'
   email: info@lfdata.foundation
@@ -15,9 +15,9 @@ global:
     twitter: '@LFData'
     google_site_verification: crYr16dyu7npMmK-fw42gMkXKTWg_A-7c2PosXgtPZo
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: LF Data Management and Analytics Member Company
+  membership: LF Data Management and Analytics Propsective Member Company
   flags:
-    companies: LF Data Management and Analytics Member Company
+    companies: LF Data Management and Analytics Propsective Member Company
 twitter:
   search: landscape.lfdata.foundation
   url: 'https://landscape.lfdl.foundation'
@@ -29,22 +29,14 @@ relation:
     - id: hosted
       label: LF Data Management and Analytics Projects
       children:
-        - id: graduated
-          label: Graduated LF Data Management and Analytics Projects
-          prefix: LF Data Management and Analytics
-          tag: Graduated
+        - id: lf
+          label: Prospective Project
+          prefix: LF
+          tag: LF
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: LF Data Management and Analytics Graduated
+          big_picture_label: Prospective Project
           big_picture_color: 'rgb(24,54,114)'
-        - id: incubating
-          label: Incubating LF Data Management and Analytics Projects
-          prefix: LF Data Management and Analytics
-          tag: Incubating
-          color: '#00cbff'
-          big_picture_order: 2
-          big_picture_label: LF Data Management and Analytics Incubating
-          big_picture_color: 'rgb(83, 113, 189)'
     - id: company
       label: LF Data Management and Analytics Members
       tag: Company
@@ -84,8 +76,9 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: 'https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/?utm_source=lfdl_landscape&utm_medium=web&utm_campaign=kccncna19'
+  - url: 'https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/?utm_source=lfdl_landscape&utm_medium=web&utm_campaign=kccnceu20'
     image: /images/info1.jpg
+    title: Kubecon + CloudNativeCon Europe 2020
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: OS cards by age
@@ -105,12 +98,12 @@ big_picture:
     url: landscape
     name: Landscape
     title: LF Data Management and Analytics Landscape
-    fullscreen_header: See the interactive landscape at l.LF Data Management and Analytics.io
+    fullscreen_header: See the interactive landscape at l.lfdata.foundation
     size:
-      width: 1165
+      width: 1200
       height: 700
     fullscreen_size:
-      width: 1165
+      width: 1200
       height: 700
     elements:
       - type: HorizontalCategory
@@ -133,46 +126,46 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Data
-        rows: 4
-        width: 365
-        height: 190
+        rows: 8
+        width: 1173
+        height: 300
         top: 420
         left: 0
         color: 'rgb(108,135,75)'
         fit_width: true
       - type: VerticalCategory
-        category: LF Data Management and Analytics Member Company
-        cols: 8
-        width: 355
-        height: 420
+        category: LF Data Management and Analytics Propsective Member Company
+        cols: 10
+        width: 400
+        height: 200
         top: 190
         left: 770
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: LandscapeInfo
-        width: 365
+        width: 405
         height: 160
         top: 10
-        left: 770
+        left: 772
         children:
           - type: text
             text: >
-              This landscape is intended as a map to explore open source projects within the animation and visual effects industry, and also shows the member
-              companies of the Academy Software Foundation.
+              This landscape is intended as a map to explore open source projects within the data management and analytics space, and also shows the prospective
+              member companies of the LF Data Management and Analytics Foundation.
             top: 20
-            left: 100
+            left: 120
             right: 120
             font_size: 10
           - type: image
             image: qr.svg
             top: 20
-            left: 5
+            left: 10
             width: 90
             height: 90
           - type: title
-            title: l.LF Data Management and Analytics.io
+            title: l.lfdata.foundation
             top: 104
-            left: 30
+            left: 4
             font_size: 12
           - type: image
             image: left-logo.svg
@@ -186,5 +179,5 @@ big_picture:
             top: 80
 test:
   header: LF Data Management and Analytics Interactive Landscape
-  section: Graduated LF Data Management and Analytics Projects
-  logo: open-vdb.svg
+  section: Prospective Project
+  logo: od-pi-egeria.svg
