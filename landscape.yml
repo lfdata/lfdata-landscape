@@ -23,7 +23,6 @@ landscape:
             homepage_url: 'https://pachyderm.io/'
             repo_url: 'https://github.com/pachyderm/pachyderm'
             logo: pachyderm.svg
-            twitter: 'https://twitter.com/pachydermio'
             crunchbase: 'https://www.crunchbase.com/organization/pachyderm'
           - item:
             name: Quilt Data
@@ -203,6 +202,7 @@ landscape:
             homepage_url: 'https://github.com/gchq/stroom'
             repo_url: 'https://github.com/gchq/stroom'
             logo: stroom.svg
+            twitter: 'https://twitter.com/gchq'
             crunchbase: 'https://www.crunchbase.com/organization/gchq'
       - subcategory:
         name: SQL Engine
@@ -226,6 +226,7 @@ landscape:
             repo_url: 'https://github.com/sql-machine-learning/sqlflow'
             logo: sqlflow.svg
             twitter: null
+            stock_ticker: BABA
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
           - item:
             name: GaianDB
@@ -339,6 +340,7 @@ landscape:
             homepage_url: 'https://github.com/gchq/Palisade'
             repo_url: 'https://github.com/gchq/Palisade'
             logo: palisade.svg
+            twitter: 'https://twitter.com/gchq'
             crunchbase: 'https://www.crunchbase.com/organization/gchq'
       - subcategory:
         name: Graph
@@ -360,6 +362,7 @@ landscape:
             homepage_url: 'https://github.com/gchq/Gaffer'
             repo_url: 'https://github.com/gchq/Gaffer'
             logo: gaffer.svg
+            twitter: 'https://twitter.com/gchq'
             crunchbase: 'https://www.crunchbase.com/organization/gchq'
       - subcategory:
         name: Labeling and Annotation
@@ -464,6 +467,7 @@ landscape:
             repo_url: 'https://github.com/gnes-ai/gnes'
             logo: gnes.svg
             twitter: null
+            stock_ticker: TCEHY
             crunchbase: 'https://www.crunchbase.com/organization/tencent'
           - item:
             name: genie
@@ -557,22 +561,16 @@ landscape:
         name: Educational Materials
         items:
           - item:
-            name: DataPractices.org
-            homepage_url: 'https://datapractices.org/'
-            repo_url: 'https://github.com/datadotworld/data-practices-site'
-            logo: datapractices_org.svg
-            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
-          - item:
             name: ODPi OpenDS4All
             homepage_url: 'https://github.com/odpi/OpenDS4All'
             repo_url: 'https://github.com/odpi/OpenDS4All'
             logo: odpi-opends4all.svg
             crunchbase: 'https://www.crunchbase.com/organization/odpi'
   - category:
-    name: LF Data and Analytics Member Company
+    name: LF Data Management and Analytics Member Company
     subcategories:
       - subcategory:
-        name: Premium
+        name: Premier
         items:
           - item:
             name: SAS
@@ -597,23 +595,15 @@ landscape:
             homepage_url: 'http://www.attunity.com/'
             logo: attunity.svg
             crunchbase: 'https://www.crunchbase.com/organization/attunity'
-          - item:
-            name: Index Analytics
-            homepage_url: 'http://www.index-analytics.com/'
-            logo: index-analytics.svg
-            crunchbase: 'https://www.crunchbase.com/organization/4c-decision'
+            stock_ticker: null
           - item:
             name: ING
             homepage_url: 'http://www.ing.com/'
             logo: ing.svg
             crunchbase: 'https://www.crunchbase.com/organization/ing-group'
           - item:
-            name: Syncsort
-            homepage_url: 'https://www.syncsort.com/en/home'
-            logo: syncsort.svg
-            crunchbase: 'https://www.crunchbase.com/organization/syncsort'
-          - item:
-            name: WANdisco, Inc
+            name: WANdisco
             homepage_url: 'http://www.wandisco.com/'
             logo: wandisco.svg
+            stock_ticker: WANSF
             crunchbase: 'https://www.crunchbase.com/organization/wandisco'

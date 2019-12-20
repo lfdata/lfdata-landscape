@@ -3,25 +3,25 @@ global:
   short_name: LF Data Management and Analytics
   repo: jmertic/lfdata-landscape
   website: 'https://landscape.LF Data Management and Analytics.io'
-  short_domain: l.LF Data Management and Analytics.io
-  company_url: 'https://LF Data Management and Analytics.io'
-  email: info@LF Data Management and Analytics.io
+  short_domain: l.lfdata.foundation
+  company_url: 'https://lfdata.foundation'
+  email: info@lfdata.foundation
   self: 'https://www.crunchbase.com/organization/odpi'
   slack_channel: T08PSQ7BQ/BM3K5125V/VfQL9ybcXrwpnLAdKdU8WQrr
   meta:
     title: LF Data Management and Analytics Landscape
     fb_admin: alex.contini.94
     description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
-    twitter: '@AcademySwf'
+    twitter: '@LFData'
     google_site_verification: crYr16dyu7npMmK-fw42gMkXKTWg_A-7c2PosXgtPZo
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   membership: LF Data Management and Analytics Member Company
   flags:
     companies: LF Data Management and Analytics Member Company
 twitter:
-  search: landscape.LF Data Management and Analytics.io
+  search: landscape.lfdata.foundation
   url: 'https://landscape.lfdl.foundation'
-  text: LF Data Management and Analytics Landscape from @AcademySwf
+  text: LF Data Management and Analytics Landscape from @LFData
 relation:
   label: LF Data Management and Analytics Relation
   url: LF Data Management and Analytics
@@ -78,9 +78,9 @@ membership:
     funding: 'No'
 home:
   header: >
-    <h1>LF Data Management and Analytics Interactive Landscape</h1> The Academy Software Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
-    href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
-    on the same open source code.
+    <h1>LF Data Management and Analytics Interactive Landscape</h1> The LF Data Management and Analytics landscape (<a target="_blank"
+    href="images/landscape.png">png</a>, <a target="_blank" href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a
+    href="http://landscape.cncf.io">CNCF landscape</a> and based on the same open source code.
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
@@ -104,7 +104,7 @@ big_picture:
     tab_index: -1
     url: landscape
     name: Landscape
-    title: Academy Software Foundation Landscape
+    title: LF Data Management and Analytics Landscape
     fullscreen_header: See the interactive landscape at l.LF Data Management and Analytics.io
     size:
       width: 1165
@@ -114,7 +114,7 @@ big_picture:
       height: 700
     elements:
       - type: HorizontalCategory
-        category: Imaging and Color
+        category: Distributed Computing
         rows: 3
         width: 750
         height: 170
@@ -123,7 +123,7 @@ big_picture:
         color: 'rgb(78,171,207)'
         fit_width: true
       - type: HorizontalCategory
-        category: Assets and Workflow
+        category: Resources
         rows: 3
         width: 750
         height: 170
@@ -132,22 +132,13 @@ big_picture:
         color: 'rgb(104,145,145)'
         fit_width: true
       - type: HorizontalCategory
-        category: Rendering and Queueing
+        category: Data
         rows: 4
         width: 365
         height: 190
         top: 420
         left: 0
         color: 'rgb(108,135,75)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Math and Simulation
-        rows: 4
-        width: 365
-        height: 190
-        top: 420
-        left: 385
-        color: 'rgb(130,207,231)'
         fit_width: true
       - type: VerticalCategory
         category: LF Data Management and Analytics Member Company
