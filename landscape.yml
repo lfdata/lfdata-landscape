@@ -561,6 +561,32 @@ landscape:
             logo: cdla.svg
             crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
       - subcategory:
+        name: Schemas and Standards
+        items:
+          - item:
+            name: Cloud Information Model (CIM)
+            homepage_url: 'https://cloudinformationmodel.org/'
+            logo: cim.svg
+            repo_url: 'https://github.com/cloudinformationmodel/cloudinformationmodel'
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: JSON-LD
+            repo_url: 'https://github.com/w3c/json-ld-wg'
+            homepage_url: 'https://json-ld.org/'
+            crunchbase: 'https://www.crunchbase.com/organization/world-wide-web-consortium'
+            logo: json-ld-logo.svg
+          - item:
+            name: O-DEF
+            homepage_url: 'https://publications.opengroup.org/c163'
+            crunchbase: 'https://www.crunchbase.com/organization/the-open-group-2'
+            logo: o-def.svg
+          - item:
+            name: Schema.org
+            homepage_url: 'http://schema.org/'
+            repo_url: 'https://github.com/schemaorg/schemaorg'
+            crunchbase: 'https://www.crunchbase.com/organization/world-wide-web-consortium'
+            logo: schemaorg.svg
+      - subcategory:
         name: Best Practices
         items:
           - item:
@@ -649,6 +675,12 @@ landscape:
             homepage_url: 'https://www.experoinc.com/'
             logo: expero.svg
             crunchbase: 'https://www.crunchbase.com/organization/expero'
+          - item:
+            name: Index Analytics
+            homepage_url: 'http://www.index-analytics.com/'
+            logo: index-analytics.svg
+            crunchbase: 'https://www.crunchbase.com/organization/4c-decision'
+            twitter: 'https://twitter.com/indexanalytics'
           - item:
             name: ING
             homepage_url: 'http://www.ing.com/'

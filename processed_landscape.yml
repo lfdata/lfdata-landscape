@@ -5055,6 +5055,210 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-12-19T01:00:52.000Z
       - subcategory:
+        name: Schemas and Standards
+        items:
+          - item:
+            name: Cloud Information Model (CIM)
+            homepage_url: 'https://cloudinformationmodel.org/'
+            logo: cim.svg
+            repo_url: 'https://github.com/cloudinformationmodel/cloudinformationmodel'
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            crunchbase_data:
+              name: Linux Foundation
+              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://www.linuxfoundation.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/linuxfoundation'
+              linkedin: 'https://www.linkedin.com/company/the-linux-foundation'
+              parents: []
+            github_data:
+              languages:
+                - name: HTML
+                  value: 4140946
+                  color: '#e34c26'
+                - name: CSS
+                  value: 302984
+                  color: '#563d7c'
+                - name: RAML
+                  value: 60342
+                  color: '#77d9fb'
+                - name: JavaScript
+                  value: 15993
+                  color: '#f1e05a'
+                - name: TSQL
+                  value: 11318
+                - name: PLpgSQL
+                  value: 3914
+                - name: Scala
+                  value: 3530
+                  color: '#c22d40'
+                - name: Shell
+                  value: 1077
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+              firstWeek: 2018-12-23Z
+              stars: 21
+              license: Unknown License
+              description: null
+              latest_commit_date: '2019-11-12T15:29:27Z'
+              latest_commit_link: /cloudinformationmodel/cloudinformationmodel/commit/b8152d09c8faac7def0168698375aaeaeca85ba0
+              contributors_count: 1
+              contributors_link: 'https://github.com/cloudinformationmodel/cloudinformationmodel/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /cloudinformationmodel/cloudinformationmodel/commit/b8152d09c8faac7def0168698375aaeaeca85ba0
+              start_date: '2019-11-12T15:29:27Z'
+            image_data:
+              fileName: cloud-information-model-cim.svg
+              hash: W3WJVgzYy6N52Tit9qWHJDqAUtdF4+GKEBdHmkDsGFs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-19T01:00:52.000Z
+          - item:
+            name: JSON-LD
+            repo_url: 'https://github.com/w3c/json-ld-wg'
+            homepage_url: 'https://json-ld.org/'
+            crunchbase: 'https://www.crunchbase.com/organization/world-wide-web-consortium'
+            logo: json-ld-logo.svg
+            crunchbase_data:
+              name: World Wide Web Consortium
+              description: 'The World Wide Web Consortium (W3C) develops interoperable technologies (specifications, guidelines, software.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.w3.org'
+              city: Cambridge
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/W3C'
+              linkedin: 'https://www.linkedin.com/company-beta/13165/'
+              parents: []
+            github_data:
+              languages:
+                - name: HTML
+                  value: 97446
+                  color: '#e34c26'
+                - name: Ruby
+                  value: 36891
+                  color: '#701516'
+                - name: JavaScript
+                  value: 13195
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 7751
+                  color: '#563d7c'
+                - name: Shell
+                  value: 50
+                  color: '#89e051'
+              contributions: 0;1;6;3;4;2;1;6;4;3;5;5;2;7;4;7;4;4;4;1;6;4;2;3;1;1;1;2;3;8;6;4;6;8;2;5;6;3;2;3;0;5;5;3;3;7;3;3;3;0;7;1
+              firstWeek: 2018-12-23Z
+              stars: 20
+              license: Other
+              description: Home Page for the JSON-LD Working Group
+              latest_commit_date: '2019-12-13T18:17:48Z'
+              latest_commit_link: /w3c/json-ld-wg/commit/09904cd031c9ffd51b67b2fb302d4aa58c7de2a5
+              contributors_count: 8
+              contributors_link: 'https://github.com/w3c/json-ld-wg/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /w3c/json-ld-wg/commit/f3a87b5415d72167e201fd7b5904627494912175
+              start_date: '2018-04-21T06:46:55Z'
+            image_data:
+              fileName: json-ld.svg
+              hash: RHPFaHPGwuA9/TpwFIicDr80jriR0R45dXIGmb4i9w4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-20T16:08:22.000Z
+          - item:
+            name: O-DEF
+            homepage_url: 'https://publications.opengroup.org/c163'
+            crunchbase: 'https://www.crunchbase.com/organization/the-open-group-2'
+            logo: o-def.svg
+            crunchbase_data:
+              name: The Open Group
+              description: The Open Group is a global consortium that enables the achievement of business objectives through IT standards.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.opengroup.org/'
+              city: Reading
+              region: Reading
+              country: United Kingdom
+              twitter: 'https://twitter.com/theopengroup'
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: o-def.svg
+              hash: pJMrSV5uCnlcuzLS9TV+QAILDGGa8ENVjzqi17PeZdM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-20T16:45:21.000Z
+          - item:
+            name: Schema.org
+            homepage_url: 'http://schema.org/'
+            repo_url: 'https://github.com/schemaorg/schemaorg'
+            crunchbase: 'https://www.crunchbase.com/organization/world-wide-web-consortium'
+            logo: schemaorg.svg
+            crunchbase_data:
+              name: World Wide Web Consortium
+              description: 'The World Wide Web Consortium (W3C) develops interoperable technologies (specifications, guidelines, software.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.w3.org'
+              city: Cambridge
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/W3C'
+              linkedin: 'https://www.linkedin.com/company-beta/13165/'
+              parents: []
+            github_data:
+              languages:
+                - name: HTML
+                  value: 20946156
+                  color: '#e34c26'
+                - name: Ruby
+                  value: 500468
+                  color: '#701516'
+                - name: Python
+                  value: 218170
+                  color: '#3572A5'
+                - name: Jupyter Notebook
+                  value: 91698
+                  color: '#DA5B0B'
+                - name: Smarty
+                  value: 35849
+                - name: Shell
+                  value: 13001
+                  color: '#89e051'
+              contributions: 1;1;0;0;5;3;2;5;44;16;1;6;15;91;60;16;27;2;16;2;0;3;17;3;7;49;3;13;5;17;8;11;13;0;0;2;2;0;0;10;5;0;6;27;2;9;12;0;0;0;0;1
+              firstWeek: 2018-12-23Z
+              stars: 3407
+              license: Apache License 2.0
+              description: Schema.org - schemas and (appengine) software
+              latest_commit_date: '2019-12-16T17:07:13Z'
+              latest_commit_link: /schemaorg/schemaorg/commit/8388516fe48ed0a44ccadc51098a3b9ab129ea89
+              release_date: '2014-09-12T07:17:36Z'
+              release_link: 'https://github.com/schemaorg/schemaorg/releases'
+              contributors_count: 76
+              contributors_link: 'https://github.com/schemaorg/schemaorg/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /schemaorg/schemaorg/commit/7b66c454a2c6f2bc06388b9663022fdef99a523a
+              start_date: '2014-01-30T23:58:35Z'
+            image_data:
+              fileName: schema-org.svg
+              hash: MxoSY3cWseU1MkR9OrOwAkFORX4a/crVccBUQGxMCJU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-20T16:08:22.000Z
+      - subcategory:
         name: Best Practices
         items:
           - item:
@@ -5483,6 +5687,32 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-12-20T00:15:40.000Z
+          - item:
+            name: Index Analytics
+            homepage_url: 'http://www.index-analytics.com/'
+            logo: index-analytics.svg
+            crunchbase: 'https://www.crunchbase.com/organization/4c-decision'
+            twitter: 'https://twitter.com/indexanalytics'
+            crunchbase_data:
+              name: 4C Decision
+              description: 4C Decision offers a full stack of services to empower their clients & reap the benefits of technology investment.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.4cdecision.com/'
+              city: Herndon
+              region: Virginia
+              country: United States
+              twitter: 'https://www.twitter.com/4cdecision'
+              linkedin: 'https://www.linkedin.com/company/4c-decision'
+              parents: []
+            image_data:
+              fileName: index-analytics.svg
+              hash: vqPMI8z7cAaDSLJuhfe89y8B/7GHvmlZZ0HAOlZgn8k=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2013-06-27T12:16:00.000Z
           - item:
             name: ING
             homepage_url: 'http://www.ing.com/'
