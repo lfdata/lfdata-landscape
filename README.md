@@ -1,10 +1,10 @@
-[![Dependency Status](https://img.shields.io/david/AcademySoftwareFoundation/aswf-landscape.svg?style=flat-square)](https://david-dm.org/AcademySoftwareFoundation/aswf-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/4e7f5868-c8de-4e99-8c77-a3b855c61f7d/deploy-status)](https://app.netlify.com/sites/awsf-landscape/deploys)
+[![Dependency Status](https://img.shields.io/david/lfdata/lfdata-landscape.svg?style=flat-square)](https://david-dm.org/lfdata/lfdata-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/4e7f5868-c8de-4e99-8c77-a3b855c61f7d/deploy-status)](https://app.netlify.com/sites/lfdata-landscape/deploys)
 
 # Academy Software Foundation Landscape
 
-![ASWF Landscape Logo](https://landscape.aswf.io/images/left-logo.svg)
+![LF Data Landscape Logo](images/left-logo.svg)
 
-- [ASWF Landscape](#academy-software-foundation-landscape)
+- [LF Data Landscape](#lfdata-landscape)
   * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
@@ -20,20 +20,20 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-This landscape is intended as a map to explore open source projects used in the motion picture industry, and also shows the member companies of the Academy Software Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
+This landscape is intended as a map to explore open source projects for data management and analytics, and also shows the propsective member companies of the LF Data Management and Analytics Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
 ## Current Version
 
-[![ASWF Landscape](https://landscape.aswf.io/images/landscape.png)](https://landscape.aswf.io/images/landscape.png)
+[![LF Data Landscape](https://landscape.lfdata.foundation/images/landscape.png)](https://landscape.lfdata.foundation/images/landscape.png)
 
 ## Interactive Version
 
-Please see [landscape.aswf.io](https://landscape.aswf.io).
+Please see [landscape.lfdata.foundation](https://landscape.lfdata.foundation).
 
 ## New Entries
 
 * Projects must be open source and hosted on or mirrored to GitHub.
-* Projects must have been used successfully in the production of a film, television program, animated content or other projects within the scope of the ASWF. It also should have been designed specifically for the entertainment industry.
+* Projects must be in the data management and analytics space and within the scope of the LF Data. Note that AI specific projects should be directed towards the [LF AI Landscape](https://landscape.lfai.foundation)
 * Projects that clearly fit in an existing category are generally included. Put the project in the single category where it best fits. We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
 * Your project or company needs a logo and the logo needs to include the name.
 * Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
@@ -88,13 +88,13 @@ The update server enhances the source data with the fetched data and saves the r
 As explained at https://bestpractices.coreinfrastructure.org/:
 >The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 
-The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.lfdl.io/bestpractices=yes) and [without](https://landscape.aswf.io/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
+The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.lfdl.io/bestpractices=yes) and [without](https://landscape.lfdata.foundation/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
 
 ## Non-Updated Items
 
-We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.aswf.io/grouping=no&license=open-source&sort=latest-commit
+We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.lfdata.foundation/grouping=no&license=open-source&sort=latest-commit
 
-We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.aswf.io/grouping=no&license=not-open-source&sort=latest-tweet
+We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.lfdata.foundation/grouping=no&license=not-open-source&sort=latest-tweet
 
 Items that have been removed can apply to be re-added using the regular New Entries criteria above.
 
@@ -106,10 +106,10 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 ## Formats
 
-The ASWF Landscape is available in these formats:
+The LF Data Landscape is available in these formats:
 
-* [PNG](https://landscape.aswf.io/images/landscape.png)
-* [PDF](https://landscape.aswf.io/images/landscape.pdf)
+* [PNG](https://landscape.lfdata.foundation/images/landscape.png)
+* [PDF](https://landscape.lfdata.foundation/images/landscape.pdf)
 
 ## Installation
 
