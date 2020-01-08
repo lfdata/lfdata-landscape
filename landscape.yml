@@ -656,6 +656,12 @@ landscape:
             logo: gchq.svg
             twitter: 'https://twitter.com/gchq'
             crunchbase: 'https://www.crunchbase.com/organization/gchq'
+          - item:
+            name: Huawei
+            logo: huawei.svg
+            crunchbase: 'https://www.crunchbase.com/organization/huawei'
+            homepage_url: 'http://huawei.com/'
+            twitter: 'https://twitter.com/Huawei'
       - subcategory:
         name: General
         items:
