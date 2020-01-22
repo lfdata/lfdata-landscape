@@ -501,7 +501,6 @@ landscape:
             homepage_url: 'https://www.opensds.io/'
             repo_url: 'https://github.com/opensds/opensds'
             logo: opensds.svg
-            project: lf
             crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
           - item:
             name: Singularity
@@ -614,7 +613,7 @@ landscape:
             logo: odpi-opends4all.svg
             crunchbase: 'https://www.crunchbase.com/organization/odpi'
   - category:
-    name: LF Data Management and Analytics Propsective Member Company
+    name: Existing ODPi Members and other companies to invite
     subcategories:
       - subcategory:
         name: Premier

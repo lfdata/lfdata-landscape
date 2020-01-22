@@ -15,9 +15,9 @@ global:
     twitter: '@LFData'
     google_site_verification: crYr16dyu7npMmK-fw42gMkXKTWg_A-7c2PosXgtPZo
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: LF Data Management and Analytics Propsective Member Company
+  membership: Existing ODPi Members and other companies to invite
   flags:
-    companies: LF Data Management and Analytics Propsective Member Company
+    companies: Existing ODPi Members and other companies to invite
 twitter:
   search: landscape.lfdata.foundation
   url: 'https://landscape.lfdl.foundation'
@@ -27,22 +27,22 @@ relation:
   url: LF Data Management and Analytics
   values:
     - id: hosted
-      label: LF Data Management and Analytics Projects
+      label: Projects to Invite
       children:
         - id: lf
-          label: Prospective Project
+          label: Project to Invite
           prefix: LF
           tag: LF
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: Prospective Project
+          big_picture_label: Project to Invite
           big_picture_color: 'rgb(24,54,114)'
     - id: company
-      label: LF Data Management and Analytics Members
+      label: Existing ODPi Members and other companies to invite
       tag: Company
       big_picture_order: 3
     - id: member
-      label: LF Data Management and Analytics Member Products/Projects
+      label: Existing ODPi Members and other companies to invite
       tag: LF Data Management and Analytics Member
     - id: false
       label: Non-LF Data Management and Analytics Member Products/Projects
@@ -134,7 +134,7 @@ big_picture:
         color: 'rgb(108,135,75)'
         fit_width: false
       - type: VerticalCategory
-        category: LF Data Management and Analytics Propsective Member Company
+        category: Existing ODPi Members and other companies to invite
         cols: 12
         width: 500
         height: 200
@@ -179,5 +179,5 @@ big_picture:
             top: 80
 test:
   header: LF Data Management and Analytics Interactive Landscape
-  section: Prospective Project
+  section: Project to Invite
   logo: od-pi-egeria.svg

@@ -4570,7 +4570,6 @@ landscape:
             homepage_url: 'https://www.opensds.io/'
             repo_url: 'https://github.com/opensds/opensds'
             logo: opensds.svg
-            project: lf
             crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
             crunchbase_data:
               name: Linux Foundation
@@ -5347,7 +5346,7 @@ landscape:
               start_date: '2018-01-25T15:47:29Z'
             image_data:
               fileName: data-practices-org.svg
-              hash: iW9SQrKSEvJlJ3b+/fum77QifE326rC5/D31HhhXDzQ=
+              hash: jUB3pYxGdWO9TnuLtuxU+9vbGW09tvGltNPt6N58Ulc=
             best_practice_data:
               badge: false
               percentage: null
@@ -5399,7 +5398,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-12-17T21:30:08.000Z
   - category:
-    name: LF Data Management and Analytics Propsective Member Company
+    name: Existing ODPi Members and other companies to invite
     subcategories:
       - subcategory:
         name: Premier
