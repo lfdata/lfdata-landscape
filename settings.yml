@@ -128,8 +128,8 @@ big_picture:
         category: Data
         rows: 8
         width: 1173
-        height: 280
-        top: 420
+        height: 290
+        top: 410
         left: 0
         color: 'rgb(108,135,75)'
         fit_width: false
