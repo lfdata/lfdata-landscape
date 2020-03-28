@@ -1,7 +1,7 @@
 global:
   name: LF Data Management and Analytics Interactive Landscape
   short_name: LF Data Management and Analytics
-  repo: jmertic/lfdata-landscape
+  repo: lfdata/lfdata-landscape
   website: 'https://landscape.lfdata.foundation'
   short_domain: l.lfdata.foundation
   company_url: 'https://lfdata.foundation'
