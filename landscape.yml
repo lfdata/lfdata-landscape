@@ -91,11 +91,18 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Hudi
-            homepage_url: 'https://eng.uber.com/hoodie/'
+            homepage_url: 'https://hudi.apache.org/'
             repo_url: 'https://github.com/apache/incubator-hudi'
             logo: hudi.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Iceberg
+            homepage_url: 'https://iceberg.apache.org/'
+            repo_url: 'https://github.com/apache/incubator-iceberg'
+            logo: iceberg.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'            
           - item:
             name: Milvus
             homepage_url: 'https://milvus.io'
@@ -151,12 +158,6 @@ landscape:
             logo: brooklin.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/linkedin'
-          - item:
-            name: Circus Train
-            homepage_url: 'https://github.com/HotelsDotCom/circus-train'
-            repo_url: 'https://github.com/HotelsDotCom/circus-train'
-            logo: circus-train.svg
-            crunchbase: 'https://www.crunchbase.com/organization/expedia'
           - item:
             name: faust
             homepage_url: 'https://github.com/robinhood/faust'
@@ -216,11 +217,24 @@ landscape:
             twitter: 'https://twitter.com/ApacheDrill'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
-            name: Presto
+            name: Hive
+            homepage_url: 'https://hive.apache.org/'
+            repo_url: 'https://github.com/apache/hive'
+            logo: hive.svg
+            twitter: 'https://twitter.com/ApacheHive'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'   
+        - item:
+            name: Presto DB
             homepage_url: 'https://prestodb.io/'
             repo_url: 'https://github.com/prestodb/presto'
             logo: presto.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-software-foundation'
+        - item:
+            name: Presto SQL
+            homepage_url: 'https://prestosql.io/'
+            repo_url: 'https://github.com/prestosql/presto'
+            logo: presto.svg
+            crunchbase: null            
           - item:
             name: SQLFlow
             homepage_url: 'https://sql-machine-learning.github.io/'
