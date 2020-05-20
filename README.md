@@ -1,6 +1,6 @@
 [![Dependency Status](https://img.shields.io/david/lfdata/lfdata-landscape.svg?style=flat-square)](https://david-dm.org/lfdata/lfdata-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/4e7f5868-c8de-4e99-8c77-a3b855c61f7d/deploy-status)](https://app.netlify.com/sites/lfdata-landscape/deploys)
 
-# Academy Software Foundation Landscape
+# Linux Foundation Data Landscape
 
 ![LF Data Landscape Logo](images/left-logo.svg)
 
@@ -24,11 +24,11 @@ This landscape is intended as a map to explore open source projects for data man
 
 ## Current Version
 
-[![LF Data Landscape](https://landscape.lfdata.foundation/images/landscape.png)](https://landscape.lfdata.foundation/images/landscape.png)
+[![LF Data Landscape](https://lfdata-landscape.netlify.app/images/landscape.png)](https://lfdata-landscape.netlify.app/images/landscape.png)
 
 ## Interactive Version
 
-Please see [landscape.lfdata.foundation](https://landscape.lfdata.foundation).
+Please see [landscape.lfdata.foundation](https://lfdata-landscape.netlify.app/).
 
 ## New Entries
 
@@ -88,13 +88,13 @@ The update server enhances the source data with the fetched data and saves the r
 As explained at https://bestpractices.coreinfrastructure.org/:
 >The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 
-The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.lfdl.io/bestpractices=yes) and [without](https://landscape.lfdata.foundation/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
+The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://lfdata-landscape.netlify.app/bestpractices=yes) and [without](https://lfdata-landscape.netlify.app/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
 
 ## Non-Updated Items
 
-We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.lfdata.foundation/grouping=no&license=open-source&sort=latest-commit
+We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://lfdata-landscape.netlify.app/grouping=no&license=open-source&sort=latest-commit
 
-We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.lfdata.foundation/grouping=no&license=not-open-source&sort=latest-tweet
+We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://lfdata-landscape.netlify.app/grouping=no&license=not-open-source&sort=latest-tweet
 
 Items that have been removed can apply to be re-added using the regular New Entries criteria above.
 
@@ -108,8 +108,8 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 The LF Data Landscape is available in these formats:
 
-* [PNG](https://landscape.lfdata.foundation/images/landscape.png)
-* [PDF](https://landscape.lfdata.foundation/images/landscape.pdf)
+* [PNG](https://lfdata-landscape.netlify.app/images/landscape.png)
+* [PDF](https://lfdata-landscape.netlify.app/images/landscape.pdf)
 
 ## Installation
 
